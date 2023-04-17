@@ -6,3 +6,8 @@ ul {
 a {
     text-decoration: none;
 }
+
+.top-section {
+    display: flex;
+    flex-direction: column;
+}
