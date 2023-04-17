@@ -16,3 +16,8 @@ a {
     display: flex;
     justify-content: space-between;
 }
+
+.right-links {
+    display: flex;
+    gap: 16px;
+}
