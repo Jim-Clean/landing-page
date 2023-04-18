@@ -19,7 +19,6 @@ a {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-
 }
 
 .header { 
@@ -44,4 +43,8 @@ a {
 
 .placeholder {
     width: 300px;
+}
+
+.top-content {
+    display:flex;
 }
