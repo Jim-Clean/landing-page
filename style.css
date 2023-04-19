@@ -81,6 +81,9 @@ button {
 
 .icon {
     width: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .info {
@@ -88,4 +91,8 @@ button {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.grid {
+
 }
