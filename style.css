@@ -78,3 +78,7 @@ button {
     border-radius: 8px;
     margin-top: 16px;
 }
+
+.icon {
+    width: 100px;
+}
