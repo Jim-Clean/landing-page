@@ -109,3 +109,7 @@ button {
     margin-top: 24px;
     margin-bottom: 16px;
 }
+
+img {
+    border-radius: 8px;
+}
