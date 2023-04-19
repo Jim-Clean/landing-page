@@ -19,14 +19,15 @@ a {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    padding-left: 124px;
-    padding-right: 124px;
+    padding-left: 112px;
+    padding-right: 112px;
     padding-bottom: 80px;
 }
 
 .header { 
     display: flex;
     justify-content: space-between;
+    margin-bottom: 80px;
 }
 
 #header-logo {
@@ -73,4 +74,5 @@ button {
     padding-left: 24px;
     padding-right: 24px;
     border-radius: 8px;
+    margin-top: 16px;
 }
