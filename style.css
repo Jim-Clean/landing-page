@@ -19,6 +19,9 @@ a {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
+    padding-left: 124px;
+    padding-right: 124px;
+    padding-bottom: 80px;
 }
 
 .header { 
