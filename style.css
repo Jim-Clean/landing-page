@@ -83,7 +83,6 @@ button {
     width: 100px;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
 }
 
 .info {
@@ -94,5 +93,6 @@ button {
 }
 
 .grid {
-
+    display: flex;
+    justify-content: space-around;
 }
