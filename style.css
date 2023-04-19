@@ -80,9 +80,10 @@ button {
 }
 
 .icon {
-    width: 125px;
+    width: 140px;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .info {
@@ -95,4 +96,5 @@ button {
 .grid {
     display: flex;
     justify-content: space-around;
+    gap: 32px;
 }
