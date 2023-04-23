@@ -141,3 +141,9 @@ img {
     align-self: end;
     margin-top: 0px;
 }
+
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
