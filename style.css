@@ -148,3 +148,14 @@ img {
     align-items: center;
     background-color: #3882F6;
 }
+
+.sign-header {
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.sign-content {
+    color: #F9FAF8;
+    font-weight: 300;
+    font-size: 12px;
+}
