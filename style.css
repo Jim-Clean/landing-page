@@ -177,4 +177,5 @@ img {
 button.bottom-button {
     border-color: #F9FAF8;
     border-style: solid;
+    border-width: 1px;
 }
