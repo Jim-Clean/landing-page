@@ -151,10 +151,11 @@ img {
     margin-right: 112px;
     margin-top: 80px;
     margin-bottom: 80px;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 36px;
+    padding-bottom: 36px;
     border-radius: 6px;
-    padding-right: 36px;
+    padding-right: 64px;
+    padding-left: 64px;
 }
 
 .sign-header {
@@ -168,10 +169,6 @@ img {
     font-weight: 300;
     font-size: 12px;
     margin: 0px;
-}
-
-.sign-text {
-    padding-left: 36px;
 }
 
 button.bottom-button {
