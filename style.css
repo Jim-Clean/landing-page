@@ -15,12 +15,18 @@ a {
     text-decoration: none;
 }
 
+.section-wrapper {
+    max-width: 1110px;
+    margin: auto;
+    padding-left: 56px;
+    padding-right: 56px;
+}
+
 .top-section {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    padding-left: 112px;
-    padding-right: 112px;
+    align-items: center;
     padding-bottom: 80px;
 }
 
