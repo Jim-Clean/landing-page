@@ -128,7 +128,6 @@ img {
 
 .quote-container {
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding-left: 135px;
@@ -149,8 +148,10 @@ img {
 
 .caption {
     font-weight: 900;
-    align-self: end;
+    margin-left: auto;
     margin-top: 0px;
+    justify-self: end;
+    text-align: end;
 }
 
 .signup-container {
@@ -199,4 +200,9 @@ button.bottom-button {
     font-size: 10px;
     padding-top: 24px;
     padding-bottom: 24px;
+}
+
+.quote-container .section-wrapper {
+    max-width: 800px;
+    min-width: 800px;
 }
