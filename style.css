@@ -113,3 +113,13 @@ button {
 img {
     border-radius: 8px;
 }
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
