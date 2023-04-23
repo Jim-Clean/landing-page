@@ -147,6 +147,8 @@ img {
     justify-content: space-between;
     align-items: center;
     background-color: #3882F6;
+    margin-left: 112px;
+    margin-right: 112px;
 }
 
 .sign-header {
@@ -158,4 +160,12 @@ img {
     color: #F9FAF8;
     font-weight: 300;
     font-size: 12px;
+}
+
+.sign-text {
+    padding-left: 36px;
+}
+
+.bottom-button {
+    padding-right: 36px;
 }
