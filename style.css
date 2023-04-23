@@ -154,6 +154,7 @@ img {
     padding-top: 16px;
     padding-bottom: 16px;
     border-radius: 6px;
+    padding-right: 36px;
 }
 
 .sign-header {
@@ -173,6 +174,7 @@ img {
     padding-left: 36px;
 }
 
-.bottom-button {
-    padding-right: 36px;
+button.bottom-button {
+    border-color: #F9FAF8;
+    border-style: solid;
 }
