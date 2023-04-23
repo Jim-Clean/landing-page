@@ -94,6 +94,7 @@ button {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding-bottom: 80px;
 }
 
 .grid {
@@ -121,6 +122,8 @@ img {
     align-items: center;
     padding-left: 135px;
     padding-right: 135px;
+    padding-top: 135px;
+    padding-bottom: 135px;
     background-color: #E5E7EB;
 }
 
