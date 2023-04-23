@@ -89,11 +89,11 @@ button {
 }
 
 .icon {
-    width: 200px;
+    width: 180px;
     display: flex;
     flex-direction: column;
     text-align: center;
-    gap: 8px;
+    gap: 24px;
     font-size: 12px;
     color: #6a6a6b;
     margin-bottom: 16px;
