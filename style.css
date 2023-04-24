@@ -204,8 +204,8 @@ button.bottom-button {
 }
 
 .signup-container .section-wrapper {
-    max-width: 800px;
-    min-width: 800px;
+    max-width: 600px;
+    min-width: 600px;
     display: flex;
     justify-content: space-between;
     align-items: center;
